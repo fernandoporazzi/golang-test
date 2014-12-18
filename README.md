@@ -6,4 +6,4 @@ A simple application built using Go Lang
 This is still a work in progress.
 
 Run
-`$ go run main.go`
+`$ go run main.go utils.go routes.go`
